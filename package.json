@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-callback-examples",
+  "version": "1.0.0",
+  "description": "A collection of examples to show how callback system works in Nodejs and how to manage it properly.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defra91/nodejs-callback-examples.git"
+  },
+  "author": "Luca De Franceschi <luca.defranceschi.91@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/defra91/nodejs-callback-examples/issues"
+  },
+  "homepage": "https://github.com/defra91/nodejs-callback-examples#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "gm": "^1.23.1",
+    "mongodb": "^3.0.6",
+    "request": "^2.85.0"
+  }
+}
